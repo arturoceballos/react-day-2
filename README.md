@@ -7,4 +7,3 @@ $ npm start
 ```
 
 Have fun!
-
